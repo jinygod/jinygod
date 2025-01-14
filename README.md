@@ -20,13 +20,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ayclub8866)](https://solved.ac/ayclub8866/)
 <br>
 <hr>
-  
-**✶ BLOG ✶**
 
-[![tistory](https://shields.io/badge/tistory-black?style=for-the-badge&logo=tistory)](https://dev-jsj.tistory.com)
-
-<br>
-<br>
 
 **✶ 💻ᴛᴇᴄᴋ sᴛᴀᴄᴋ & ᴛᴏᴏʟs ✶**
 
