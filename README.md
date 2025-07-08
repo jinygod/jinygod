@@ -2,9 +2,7 @@
  
 # JEON SEONG JIN
 
- 
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinygod&count_bg=%2385A6E9&title_bg=%233D7DD3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
- <br>
+
  
  ### Hi there 👋   
 
